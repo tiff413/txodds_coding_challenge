@@ -1,0 +1,13 @@
+This is a file with some URLs that have hyperlinks in them.
+
+https://www.google.com/
+https://www.spotify.com/us/home/
+
+This is a URL within a line https://www.bbc.co.uk/.
+
+Here are lists of URLs
+youtube.com,https://moodle.ucl.ac.uk/,reddit.com
+[facebook.com,twitter.com]
+
+Here is a duplicate URL
+https://www.youtube.com/
